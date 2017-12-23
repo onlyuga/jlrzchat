@@ -2,12 +2,12 @@
   "name": "exchat",
   "version": "1.0.0",
   "description": "chat-examole",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "author": "jlrzuser",
-  "license": "ISC",
+  "license": "IFS",
   "dependencies": {
     "express": "^4.15.2",
     "fs": "0.0.1-security",
